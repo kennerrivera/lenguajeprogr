@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author REYNOSO JAUREGUI Gerardo Kevin
+ * @author Rivera Cornejo Kenner 
  */
 public class tarea02 {
     public static void main(String[] args) {
