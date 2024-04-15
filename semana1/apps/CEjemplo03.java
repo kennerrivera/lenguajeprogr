@@ -5,7 +5,7 @@
 package Apps;
 import java.util.Scanner;
 /**
-* @author Ing. Raúl Fernández Bejarano
+* @author Rivera Cornejo Kenner
 */
 public class CEjemplo03 {
  public static void main(String[] args) {
