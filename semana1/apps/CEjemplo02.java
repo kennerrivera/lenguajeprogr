@@ -5,7 +5,7 @@ package apps;
 
 /**
  *
- * @author REYNOSO JAUREGUI Gerardo Kevin
+ * @author Rivera Cornejo Kenner
  */
 public class CEjemplo02 {
     public static void main(String[] args) {
