@@ -7,7 +7,7 @@ package apps;
 import java.util.Scanner;
 /**
  *
- * @author REYNOSO JAUREGUI Gerardo Kevin
+ * @author Rivera Cornejo Kenner
  */
 public class tarea04 {
     public static void main(String[] args) {
